@@ -1,4 +1,4 @@
-# CI-CD Windows
+# CI-CD GITLAB Windows
 
 Качаем раннер.
 для x86 https://gitlab-runner-downloads.s3.amazonaws.com/latest/binaries/gitlab-runner-windows-386.exe
